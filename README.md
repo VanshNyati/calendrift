@@ -2,7 +2,16 @@
 
 An infinite-scroll journal calendar built with React + Tailwind.
 
-**Live:** _add your URL here_
+**Live:** <https://calendrift.vercel.app/>
+
+## Features 
+
+- Infinite vertical month scrolling
+- Dynamic month/year header
+- 42-cell month grid (leap years handled)
+- Journal chips + swipeable entry modal
+- Add-entry form with basic validation
+- Local Storage persistence
 
 ## Tech
 
